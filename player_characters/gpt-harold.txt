@@ -1,0 +1,31 @@
+Character Bio: Harold "The Reliable" Thompson
+
+Race: Human
+Class: Fighter
+Background: Soldier
+
+Backstory:
+
+Harold Thompson was born in a small, unremarkable village in the heart of the kingdom. His parents were farmers, and he spent his early years working the fields and tending to livestock. Seeking a change from his monotonous life, Harold joined the army at a young age, where he quickly became known for his steadfastness and dedication. He served in several campaigns, earning a reputation as a dependable soldier who always followed orders. Now retired from active duty, Harold works as a mercenary, taking on jobs to protect caravans, guard towns, and train local militias.
+
+Personality:
+
+Harold is a practical, no-nonsense individual who values order and routine. He is serious and disciplined, rarely deviating from his carefully planned schedules. While not particularly charismatic, Harold is reliable and trustworthy, making him a valued companion. He doesn't seek glory or fame; he simply believes in doing his duty and helping others. Harold's sense of humor is dry and understated, often going unnoticed.
+
+Appearance:
+
+Harold stands at an average height of 5'10" with a muscular, well-built frame. He has short, brown hair that is beginning to thin, and his face is marked by a few small scars from past battles. His brown eyes are steady and observant. Harold wears plain, functional clothing, favoring simple tunics and trousers in muted colors. When in battle, he dons a well-worn suit of chainmail and a sturdy, unadorned helmet.
+
+Description:
+
+Harold moves with the efficiency of someone accustomed to physical labor and military discipline. His speech is straightforward and direct, with little embellishment or emotion. He is often seen performing maintenance on his gear or practicing drills, ensuring he is always prepared for whatever task lies ahead. Harold's demeanor is calm and unflappable, providing a sense of stability to those around him.
+
+Inventory:
+
+    Longsword: A reliable, well-maintained weapon that Harold has used for years.
+    Shield: A sturdy, round shield with a few dings and scratches from previous battles.
+    Chainmail Armor: Functional and durable, offering solid protection without hindering movement.
+    Backpack: Containing basic supplies such as rations, a bedroll, a flint and steel, and a waterskin.
+    Toolkit: For repairing his weapons and armor.
+    Standard-Issue Military Cloak: Provides warmth and can be used as a makeshift blanket.
+    Rations: Simple, non-perishable food to sustain him on long journeys.

@@ -1,0 +1,19 @@
+{
+	"type":"function",
+	"function":{
+		"name":"speak_to",
+		"description":"Cause another character to speak next. This can be another player character, an NPC, or even the narrator themself! This is useful for dialog. If you want to speak to another character, all you have to do is speak_next(another character's name) and then type in your dialog.",
+		"parameters":{
+			"type":"object",
+			"properties":{
+				"name":{
+					"type":"string",
+					"description":"The character's name you'd like to speak to. Remember, NO nicknames. This just needs the first name of that character."
+				}
+			},
+			"required":["name"]
+		}
+
+	}	
+	
+}

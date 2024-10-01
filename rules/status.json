@@ -1,0 +1,12 @@
+{
+	"ectotherm":"This creature does not regulate it's own temperature. They slow down in very hot and very cold temperatures. In addition, they may relax and experience a lapse in judgement if exposed to a comforatble warm temperature.",
+	"endotherm":"This creature regulates it's own body temperature, and function at roughly the same level regardless of the outside temperature.",
+	"male":"This creature is of the male sex.",
+	"female":"This creature is of the female sex.",
+	"natal":"This creature is in the youngest stage of development, whether it is an egg or a baby.",
+	"juvenile":"This creature is in the second stage of development, and will sometimes say the darndest things.",
+	"adolescent":"This creature is in the third stage of development, and will sometimes be a little snarky.",
+	"young adult":"This creature is in the final stage of development, though it still might be quite naive.",
+	"adult":"This creature is in the final stage of development, and can confidently make decisions for themselves.",
+	"elderly":"This creature is past it's prime, but still may have some wisdom to give. Or crankiness. It's really a 50/50 chance.",
+}

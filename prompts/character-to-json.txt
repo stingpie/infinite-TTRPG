@@ -1,0 +1,14 @@
+Hey, I need to format a character description into json. Here's the format:
+{
+	"name" : "PUT NAME HERE",
+	"description" : "PUT DESCRIPTION HERE",
+	"appearance" : "PUT THE CHARACTER'S APPEARANCE HERE"
+	"backstory" : "PUT BACKSOTRY HERE",
+	"personality" : "PUT PERSONALITY TRAITS HERE",
+	"tags" : ["PUT", "DESCRIPTIVE", "TAGS", "HERE"],
+	"languages" : ["PUT", "LANGUAGES", "HERE"],
+	"inventory" : ["PUT", "ITEMS", "HERE"],
+}
+If you don't have enough information to fill out the fields, come up with something that would make sense. For example, if you get a character description of a dwarf, but the inventory isn't included, you can put a hammer and maybe a flask of ale in their inventory, since that's the type of thing a dwarf would carry. Make the description, backstory, appearance and personality about five setences long each.
+
+Here's the character description:

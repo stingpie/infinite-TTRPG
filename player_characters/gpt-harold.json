@@ -1,0 +1,17 @@
+{
+	"name": "Harold \"The Reliable\" Thompson",
+	"description": "Harold is a practical, no-nonsense fighter with a muscular build, short brown hair, and steady brown eyes. He wears functional clothing and is often seen in his well-worn chainmail and helmet when preparing for battle.",
+	"backstory": "Harold Thompson was born in a small village and spent his childhood as a farmer. He joined the army seeking adventure and became known for his steadfastness. After retiring from active duty, he now works as a mercenary, taking on jobs that involve protecting caravans and training local militias.",
+	"personality": "Harold is serious and disciplined, valuing order and routine. He is reliable and trustworthy, with a dry sense of humor. Not seeking glory, he focuses on doing his duty and helping others.",
+	"tags": ["Human", "Fighter", "Soldier", "Mercenary", "Reliable"],
+	"languages": ["Common"],
+	"inventory": [
+		"Longsword",
+		"Shield",
+		"Chainmail Armor",
+		"Backpack",
+		"Toolkit",
+		"Standard-Issue Military Cloak",
+		"Rations"
+	]
+}

@@ -1,0 +1,1 @@
+This is a magical egg timer. When it hits zero and rings, everyone in a 5 foot radius is turned into a chicken for 15 minutes. The timer can time anywhere between 15 seconds to 1 hour. 

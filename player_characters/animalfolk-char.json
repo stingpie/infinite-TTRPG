@@ -1,0 +1,11 @@
+
+{
+	"name": "Zorgel",
+	"appearance": "A slight dragonfly animalfolk with delicate, iridescent wings, hidden beneath layers of baggy clothing.",
+	"backstory": "Zorgel emerged from the wilds in the city of Glermerwood as a child and was taken in by a friendly, childless couple. Despite a pleasant childhood, Zorgel faced bullying when their dragonfly wings were discovered. After running away to join the circus, they spent their youth missing out on that dream while developing resourcefulness and charm.",
+	"description": "Zorgel is a creature who developed a boisterous persona to mask their insecurity over being a dragonfly animalfolk. When confronted about their true identity, they quickly become insecure and defensive.",
+	"personality": "Charming, resourceful, with a tendency to be defensive about their identity. Enjoys performing and seeks approval but struggles with insecurity. They assume the persona of a boisterous and charming human.",
+	"tags": ["dragonfly", "animalfolk", "circus", "resourceful"],
+	"languages": ["Common", "Dragonfly"],
+	"inventory": ["baggy clothes", "small keepsakes from the circus", "a worn-out book on performing arts"]
+}

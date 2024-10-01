@@ -1,0 +1,9 @@
+{
+	"name" : "Glen Blerthers",
+	"description" : "A crochety old wizard with a catalog of disapproving stares. Known for his serious demeanor and intolerance for tomfoolery.",
+	"backstory" : "Originally a wizard's apprentice, Glen grew disillusioned after witnessing the same old tricks from his master too many times. He decided to follow his own path, but his serious attitude quickly earned him a reputation for contempt towards anything quirky.",
+	"personality" : "Serious, disapproving, contemptuous, intolerant of nonsense.",
+	"tags" : ["wizard", "serious", "disapproving", "grumpy"],
+	"languages" : ["Common", "Arcane"],
+	"inventory" : ["various tonics", "tinctures", "wizard's hat", "blue robe"]
+}

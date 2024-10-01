@@ -1,0 +1,9 @@
+{
+	"name": "Jontratether Lorgblorger",
+	"description": "A female elf with a fierce spirit and a heart full of adventure.",
+	"backstory": "As a child, Jontratether always dreamed of being an adventurer. Her parents tried to temper her burning passion, but their high focus led to them neglecting to temper the fireplace, causing a terrible fire to which Jontratether was the only survivor. She was taken in by a goblin clan where she learned their mischievous culture and guttural language, only to be force to leave once she was too tall for their caves. Now, longing for adventure and with a desire to confront the villains of the world, she has strapped on a \"borrowed\" sword and shield.",
+	"personality": "Sneaky, greedy, and self absorbed, she has abandoned her elvish heritage and embraced the goblin culture.",
+	"tags": ["elf", "adventurer", "goblin-raised", "determined"],
+	"languages": ["Elvish", "Common", "goblin-ese"],
+	"inventory": ["sword", "shield", "explorer's pack", "goblin trinket"]
+}

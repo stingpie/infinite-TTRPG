@@ -1,0 +1,17 @@
+{
+    "type": "function",
+    "function": {
+      "name": "lookup",
+      "description": "look up information about a topic.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "to_search": {
+            "type": "string",
+            "description": "Regex or string to search with."
+          }
+        },
+        "required": ["lookup"]
+      }
+    }
+}

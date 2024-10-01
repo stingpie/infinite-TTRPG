@@ -1,0 +1,14 @@
+I need help turning this character description into a json format. Could you help? it needs to be this format:
+```
+{
+	'name':'CHARACTER NAME',
+	'appearance':'CHARACTER APPEARANCE',
+	'backstory':'CHARACTER BACKSTORY',
+	'description':'CHARACTER DESCRIPTION HERE',
+	'personality':'PERSONALITY',
+	'tags':["PUT", "TAGS", "HERE"]
+	'languages':["PUT", "KNOWN", "LANGUAGES", "HERE"],
+	'inventory':["PUT", "ITEMS", "HERE"]
+}
+```
+Could you do that for me? If you don't find the information you need in the description, fill it with information that seems like it would be right. Here is the character description:

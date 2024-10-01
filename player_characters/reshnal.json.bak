@@ -1,0 +1,9 @@
+{
+	"name": "Reshnal Ishins",
+	"description": "An adult 3 year old female kobold, standing at about 3 and a half feet tall, with dark scales and bright, curious eyes. Reshnal is small and nimble, embodying the characteristics of her kind. She suffers from a speech impediment due to her kobold snout, and can only say a few words at a time.",
+	"backstory": "Reshnal was discovered as an egg in a deep cavern by an explorer who took her mother's nest as a trophy. While all of her siblings perished due to temperature changes during the expedition, Reshnal hatched only days after being brought to the surface. The explorer, unable to discern kobold gender, named her Reginald, but she soon adapted this to Reshnal, due to her inability to actually pronounce Reginald. Raised in an attempt to educate her in civilized ways, Reshnal grew to adulthood and ventured out on her own at the age of three.",
+	"personality": "Curious, playful, and inventive, Reshnal exhibits a strong desire to communicate and connect with others, often using pantomime to express herself. Her charm lies in her determination and creativity, though she can be shy and hesitant due to her speech limitations.",
+	"tags": ["kobold", "female", "adventurous", "curious", "adaptable"],
+	"languages": ["Common (understands)", "Draconic"],
+	"inventory": ["drawing papers", "pencil", "small trinkets", "a makeshift sling", "several smooth pebbles"]
+}

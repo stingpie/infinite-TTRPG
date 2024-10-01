@@ -1,0 +1,9 @@
+Currently, in your inventory, there are:
+
+${character_inventory}
+
+In addition your current statuses are:
+
+${character_tags}
+
+Given this info, what do you do, &{character_name}?

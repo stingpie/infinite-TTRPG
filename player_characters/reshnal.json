@@ -1,0 +1,10 @@
+{
+	"name": "Reshnal Ishins",
+	"appearance": "A female kobold standing at about 3 and a half feet tall.",
+	"backstory": "Reshnal was discovered as an egg by a gentleman explorer who took her mother's nest as a trophy. She was the only egg to survive, hatching just after the explorer's expedition. Fascinated by her intelligence, he attempted to educate her in civilized society, mistakenly naming her Reginald, which she could not pronounce. She eventually grew to adulthood at around three years old and set off on her own.",
+	"description": "Reshnal is a dowdy kobold who tries to express herself but struggles due to her inability to speak Common. She compensates with elaborate pantomimes and drawings, unable to write due to her lack of fine motor coordination.",
+	"personality": "She is formal, dignified, and prudish about others' fashion. She seeks to communicate clearly and concisely, and refuses to engage in frivolous activities.",
+	"tags": ["kobold", "female", "formal", "adaptable", "eccentric"],
+	"languages": ["Common (understanding)", "Kobold"],
+	"inventory": ["papers", "pencil"]
+}

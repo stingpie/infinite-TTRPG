@@ -1,0 +1,18 @@
+{
+	"name": "Thalia \"Shadowstrike\" Nighthawk",
+	"description": "Thalia moves with the grace of a cat, her every step silent and deliberate. She has an air of confidence and mystery, her eyes constantly scanning her surroundings. Her voice is soft but firm, carrying an authority that demands attention. She often keeps to the shadows, observing before she acts, always calculating her next move.",
+	"backstory": "Thalia was born to an elven mother and a human father in the bustling city of Waterdeep. Her mother, a talented bard, was murdered when Thalia was just a child, leaving her to fend for herself on the streets. She grew up in the shadows, learning the ways of the city and mastering the art of stealth. Her father's identity remains a mystery, fueling her determination to uncover the secrets of her past. Thalia’s life changed when she was taken in by a group of thieves who taught her everything they knew. Now, she seeks to use her skills to protect the helpless and bring justice to those who exploit the weak.",
+	"personality": "Thalia is cunning, resourceful, and fiercely independent. She has a sharp wit and a quick tongue, often using humor to deflect from her troubled past. Despite her tough exterior, she has a soft spot for children and the downtrodden, always willing to go out of her way to help them. Thalia is slow to trust, but once she does, she is a loyal friend and ally.",
+	"tags": ["Half-Elf", "Rogue", "Urchin", "Stealth", "Justice"],
+	"languages": ["Common", "Elvish"],
+	"inventory": [
+		"Daggers (x2)",
+		"Shortsword",
+		"Thieves' Tools",
+		"Grappling Hook",
+		"Cloak of Elvenkind",
+		"Rations",
+		"Healing Potions (x2)",
+		"Pouch of Gold Coins"
+	]
+}

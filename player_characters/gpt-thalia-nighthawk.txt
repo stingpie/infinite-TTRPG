@@ -1,0 +1,38 @@
+Character Bio: Thalia "Shadowstrike" Nighthawk
+
+Race: Half-Elf
+Class: Rogue
+Background: Urchin
+
+Backstory:
+
+Thalia was born to an elven mother and a human father in the bustling city of Waterdeep. Her mother, a talented bard, was murdered when Thalia was just a child, leaving her to fend for herself on the streets. She grew up in the shadows, learning the ways of the city and mastering the art of stealth. Her father's identity remains a mystery, fueling her determination to uncover the secrets of her past. Thalia’s life changed when she was taken in by a group of thieves who taught her everything they knew. Now, she seeks to use her skills to protect the helpless and bring justice to those who exploit the weak.
+
+Personality:
+
+Thalia is cunning, resourceful, and fiercely independent. She has a sharp wit and a quick tongue, often using humor to deflect from her troubled past. Despite her tough exterior, she has a soft spot for children and the downtrodden, always willing to go out of her way to help them. Thalia is slow to trust, but once she does, she is a loyal friend and ally.
+
+Appearance:
+
+Thalia is a lithe and agile half-elf, standing at 5'6" with a slender build. She has striking emerald green eyes that seem to pierce through the darkness and shoulder-length raven-black hair often tied back in a loose braid. Her skin is fair, and she bears a few scars from her life on the streets. Thalia dresses in dark, practical clothing, favoring a hooded cloak that helps her blend into the shadows.
+
+
+
+
+Description:
+
+Thalia moves with the grace of a cat, her every step silent and deliberate. She has an air of confidence and mystery, her eyes constantly scanning her surroundings. Her voice is soft but firm, carrying an authority that demands attention. She often keeps to the shadows, observing before she acts, always calculating her next move.
+
+
+Inventory:
+
+    Daggers (x2): Sharp and well-balanced, perfect for close combat and throwing.
+    Shortsword: A finely crafted blade, lightweight and easy to wield.
+    Thieves' Tools: Essential for picking locks and disarming traps.
+    Grappling Hook: Useful for scaling walls and reaching otherwise inaccessible places.
+    Cloak of Elvenkind: A gift from her mother, this magical cloak helps her blend into her surroundings.
+    Rations: Enough to last her a few days, including dried meat, bread, and a waterskin.
+    Healing Potions (x2): For emergencies, to heal wounds quickly.
+    Pouch of Gold Coins: Her earnings from various heists and jobs, carefully hidden on her person.
+
+

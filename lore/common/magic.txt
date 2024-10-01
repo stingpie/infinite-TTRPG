@@ -1,0 +1,29 @@
+Magic is a fundamental force that shapes the world, allowing those who can harness it to perform extraordinary feats. This primer provides an overview of how magic works, the different types of magic, and the essential concepts every player should understand when engaging with magical elements in the game.
+
+Magic is the manipulation of mystical energies that exist within the world. These energies can be tapped into by those with the knowledge, skill, or innate ability to do so. Magic can achieve a wide range of effects, from simple tricks to powerful spells that can change the course of history.
+
+There are several distinct types of magic, each with its own source of power and methods of use. The main types of magic include:
+
+1. **Arcane Magic**: Arcane magic is derived from the raw, elemental forces of the universe. It is often studied and practiced by _wizards_, _sorcerers_, and _bards_. Arcane magic relies on precise gestures, incantations, and sometimes material components to cast spells.
+
+2. **Divine Magic**: Divine magic is granted by deities or higher powers and is commonly used by _clerics_ and _paladins_. These spells are often prayers or invocations that channel the power of the divine to heal, protect, or smite.
+
+3. **Nature Magic**: Nature magic is drawn from the natural world and its inherent energies. _Druids_ and _rangers_ are the primary users of this type of magic. Nature magic often involves communing with the spirits of nature, harnessing the elements, and transforming into animals.
+
+4. **Innate Magic**: Some beings have an innate magical ability that comes from within themselves. _Sorcerers_, _warlocks_, and certain _animalfolk_ might possess these inherent powers. Innate magic is often less structured and more instinctual than other forms.
+
+5. **Rune Magic**: Rune magic involves inscribing mystical symbols onto objects or into the air to create magical effects. _Dwarves_ and other runepriests often use this type of magic to enchant weapons and armor.
+
+
+
+Magic is often categorized into different schools, each focusing on a specific type of effect. The primary schools of magic include:
+
+1. **Abjuration**: Protective spells that create barriers, negate harmful effects, and banish creatures.
+2. **Conjuration**: Spells that create objects, summon creatures, or transport beings across distances.
+3. **Divination**: Spells that reveal information, such as detecting hidden objects or seeing the future.
+4. **Enchantment**: Spells that influence the minds of others, charming or controlling their actions.
+5. **Evocation**: Spells that manipulate energy to create powerful effects like fireballs or lightning bolts.
+6. **Illusion**: Spells that deceive the senses, creating images, sounds, or other sensory effects.
+7. **Necromancy**: Spells that manipulate life and death, raising the dead or draining life force.
+8. **Transmutation**: Spells that change the properties of objects, creatures, or environments.
+

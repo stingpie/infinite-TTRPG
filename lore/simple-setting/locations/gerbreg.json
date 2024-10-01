@@ -1,0 +1,7 @@
+{
+	"name":"Gerbreg",
+	"desc":"Gerbreg is a simple town, barely supporting more than thirty people, but it has been hit the hardest by Malthusius's clouds. They have no big fancy farms, or a tavern, nor any great reward to provide heros that defeat Malthusius, but they have a strength of will to survive under Malthusius's thumb. These hardy people have toiled in the fields for only 88.6% yield. In this small town, they have a bulletin board which only has a few posters on it, the most visible is a desperate plea for adventurers to fight against Malthusius and stop the cloud cover reducing crop yield.",
+	"level":0,
+	"tags":["start", "village", "unimportant"],
+	"characters":["Bill the helpful villager"]
+}
