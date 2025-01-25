@@ -1,0 +1,3 @@
+challenge mode:
+	parrot curse - player can only say words that have been spoken by characters in the last 5-15 DM responses. (force the kenku curse that nobody obeys)
+

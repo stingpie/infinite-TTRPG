@@ -1,0 +1,34 @@
+[
+	{
+		"name":"dirt",
+		"description":"just plain dirt.",
+		"stats":{},
+		"tags":["worthless", "dirty"]
+	},
+	{
+		"name":"straw",
+		"description":"dried grass. Usefull for feeding herbivores, but not very calorie dense.",
+		"stats":{"cal":10},
+		"tags":["cheap", "dirty", "herbivore food"]
+	},
+	{
+		"name":"table",
+		"description":"a simple wooden table",
+		"stats":{"material":"wood"},
+		"tags":["furniture", "medium sized"]
+	},
+	{
+		"name":"palace gates",
+		"description":"huge wooden gates that block entrance to the palace courtyard",
+		"stats":{"material":"wood"},
+		"tags":["static", "door", "mechanically controlled"]
+	},
+	{
+		"name"
+
+
+
+
+
+
+]
