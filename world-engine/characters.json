@@ -1,0 +1,154 @@
+[
+	{
+		"name":"Barbara",
+		"description":"A short stocky peasant woman with a fiery personality.",
+		"status":["human", "female", "adult", "peasant"],
+		"fat":12,
+		"inventory":["peasant rags", "scraps"],
+		"cycle":{"8400":"palace gates", "8700":"shack"}
+	},
+	{
+		"name":"Skyrd",
+		"description":"a tall, gangly gaurd with an irrational hatred of magic.",
+		"status":["lizardfolk", "female", "adult", "gaurd"],
+		"fat":2,
+		"inventory":["leather armor", "steel spear", "jerky"],
+		"cycle":{
+			"7800":"palace courtyard", 
+			"7812":"palace storeroom", 
+			"7819":"palace kitchen", 
+			"7825":"palace servant's quarters",
+			"600" :"palace kitchen",
+			"606" :"palace storeroom",
+			"618" :"palace courtyard",
+			"625" :"palace gates"
+		}
+	},
+	{
+		"name":"Starf",
+		"description":"an average-sized gaurd with a gruff attitude, but a soft-spot for kitttens.",
+		"status":["elf", "male", "adult", "gaurd"],
+		"fat":15,
+		"inventory":["leather armor", "steel spear", "diary"],
+		"cycle":{
+			"7800":"palace kitchen",
+			"7806":"palace storeroom",
+			"7818":"palace courtyard",
+			"7825":"palace gates",
+			"600" :"palace courtyard",
+			"606" :"palace storeroom",
+			"618" :"palace kitchen",
+			"625" :"palace servant's quarters"
+		}
+	},
+	{
+		"name":"jeeves",
+		"description":"A self-serious butler who refuses to take part in any joke, but secretly likes crude humor.",
+		"status":["gnome", "male", "adult", "servant"],
+		"fat":16,
+		"inventory":["butler's attire", "hankerchief"], 
+		"cycle":{
+			"3600":"palace kitchen",
+			"3606":"palace dining room",
+			"1615":"palace entrance",
+			"10800":"palace dining room",
+			"10815":"palace kitchen",
+			"10830":"palace servant's quarters"
+		}
+	},
+	{
+		"name":"jocelyn",
+		"description":"A lowly palace servant, who is afraid of lizards and snakes.",
+		"status":["human", "female", "young adult", "servant"],
+		"fat":26,
+		"inventory":["servant's attire", "smooth pebble"],
+		"cycle":{
+			"4800":"palace kitchen",
+			"4850":"palace dining room",
+			"4900":"palace kitchen",
+			"4950":"palace dining room",
+			"5000":"palace kitchen",
+			"5050":"palace servant's quarters",
+			"6600":"palace kitchen",
+			"6650":"palace dining room",
+			"6700":"palace kitchen",
+			"6750":"palace dining room",
+			"6800":"palace kitchen",
+			"6850":"palace servant's quarters",
+			"10200":"palace kitchen",
+			"10250":"palace dining room",
+			"10300":"palace kitchen",
+			"10350":"palace dining room",
+			"10400":"palace kitchen",
+			"10450":"palace servant's quarters"
+		}
+	},
+	{
+		"name":"jorbleth",
+		"description":"A sweet cook with a saccharine smile, but can get very upset in the wrong situation.",
+		"status":["crowfolk", "male", "adult", "cook"],
+		"fat":6,
+		"inventory":["cook's garb", "hairnet", "knife"],
+		"cycle":{
+			"4700":"palace kitchen",
+			"4710":"palace storeroom",
+			"4780":"palace kitchen",
+			"6600":"palace storeroom",
+			"6670":"palace kitchen",
+			"10200":"palace storeroom",
+			"10270":"palace kitchen",
+			"11400":"palace servant's quarters"
+		}
+	},
+	{
+		"name":"Josiah",
+		"description":"A disillusioned servant who just absent-mindedly nods in conversation.",
+		"status":["catfolk", "male", "young adult", "servant"],
+		"fat":23,
+		"inventory":["servant's attire", "recipe for lasagna"],
+		"cycle":{
+			"0": "palace servant's quarters"
+		}
+	},
+	{
+		"name":"judy",
+		"description":"A very talkative servant who has an adoration for cats, and by extension, tabaxi.",
+		"status":["human", "female", "young adult", "servant"],
+		"fat":25,
+		"inventory":["servant's attire", "doodle of a cat"],
+		"cycle":{
+			"0":"palace servant's quarters"
+		}
+	},
+	{
+		"name":"Lord Jorland",
+		"description":"A rich lord of the manor fascinated by magic, but unable to cast it.",
+		"status":["slight serpentfolk", "male", "adult", "lord"],
+		"fat":8,
+		"inventory":["formalwear", "notes on sorcery", "pocket watch"],
+		"cycle":{
+			"4200":"palace hall",
+			"4220":"palace entrance",
+			"4240":"palace dining room",
+			"4600":"palace entrance",
+			"4620":"palace hall",
+			"4640":"palace ritual room",
+			"7200":"palace hall",
+			"7220":"palace entrance",
+			"7240":"palace dining room",
+			"7540":"palace entrance",
+			"7560":"palace courtyard",
+			"8400":"palace entrance",
+			"8420":"palace hall",
+			"8440":"palace ritual room",
+			"10800":"palace hall",
+			"10820":"palace entrance",
+			"10840":"palace dining room",
+			"11400":"palace entrance",
+			"11420":"palace hall",
+			"11440":"palace ritual room",
+			"12000":"palace hall",
+			"12020":"palace lord's quarters"
+		}
+	}
+]

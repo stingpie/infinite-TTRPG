@@ -1,0 +1,85 @@
+[
+	{
+		"name":"shack",
+		"description":"terrible house for two",
+		"characters":["Barbara"],
+		"items":["dirt", "straw", "table"],
+		"neighbor":["outside"]
+	},
+	{
+		"name":"palace gates",
+		"description":"The entry gates to a grand palace",
+		"characters":["Skyrd","Starf"],
+		"items":["dirt","palace gates"],
+		"neighbor":["outside", "palace courtyard"]
+	},
+	{
+		"name":"palace courtyard",
+		"description":"the courtyard to a grand palace",
+		"characters":[],
+		"items":["wagon"],
+		"neighbor":["palace entrance", "palace gates"]
+	},
+	{
+		"name":"palace entrance",
+		"description":"The first room in a grand palace.",
+		"characters":["jeeves"],
+		"items":["ornate couch", "ornate couch", "ornate table", "ornate tablecloth", "ornate candelabra"],
+		"neighbor":["palace dining room", "palace hall"]
+	},
+	{
+		"name":"palace dining room",
+		"description":"An ornate and lush dining room",
+		"characters":["jocelyn"],
+		"items":["very long table", "chair", "chair", "chair", "chair", "chair", "chair", "chair", "chair", "silverware", "mat"],
+		"neighbor":["palace entrance","palace kitchen"]
+	},
+	{
+		"name":"palace kitchen",
+		"description":"A large kitchen, fit for a palace.",
+		"characters":["Jorbleth"],
+		"items":["pan", "spatula", "potato", "oven"],
+		"neighbor":["palace dining room", "palace storeroom", "palace servant's quarters"]
+	},
+	{
+		"name":"palace storeroom",
+		"description":"a storeroom full of preserved foods",
+		"characters":[],
+		"items":["jam", "jelly", "flour", "meat", "vegetables"],
+		"neighbor":["palace kitchen", "palace courtyard"]
+	},
+	{
+		"name":"palace servant's quarters",
+		"description":"A large set of rooms for the servants of the palace to sleep in.",
+		"characters":["Josiah", "Judy"],
+		"items":["servant's clothes"],
+		"neighbor":["palace kitchen"]
+	},
+	{
+		"name":"palace hall",
+		"description":"A fancy hall in the center of the palace.",
+		"characters":[],
+		"items":["painting of a lady", "painting of a horse"],
+		"neighbor":["palace lord's quarters", "palace ritual room"]
+	},
+	{
+		"name":"palace lord's quarters",
+		"description":"A rich and lush bedroom fit for a king.",
+		"characters":["Lord jorland"],
+		"items":["ornate bed", "fancy chest", "painting of an oyster"],
+		"neighbor":["palace hall"]
+	},
+	{
+		"name":"palace ritual room",
+		"description":"A room for performing strange rituals",
+		"characters":[],
+		"items":["slate altar", "scroll of wildshape"],
+		"neighbor":["palace hall"]
+	}
+
+
+
+
+
+
+]
